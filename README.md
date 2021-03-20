@@ -11,4 +11,4 @@ src/modint.rs: 剰余、Combinationライブラリ
 
 # その他
 
-update_snippet.sh: VSCodeのテンプレートを更新(パス名を正しく変更する必要あり)
+update_snippet.sh: VSCodeのスニペットを更新(パス名を正しく変更する必要あり)
