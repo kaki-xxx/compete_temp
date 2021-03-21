@@ -9,6 +9,8 @@ src/crt.rs: 中国剰余定理、拡張ユークリッドの互除法ライブ�
 src/permutation.rs: 順列列挙ライブラリ  
 src/modint.rs: 剰余、Combinationライブラリ  
 
+template_with_placeholder.json: プレースホルダ付きのテンプレ
+
 # その他
 
 update_snippet.sh: VSCodeのスニペットを更新(パス名を正しく変更する必要あり)
