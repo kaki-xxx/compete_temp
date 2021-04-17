@@ -10,6 +10,7 @@ mod crt;
 mod binary_search;
 mod modint;
 mod dsu;
+mod geo;
 
 #[cfg(test)]
 mod tests {
